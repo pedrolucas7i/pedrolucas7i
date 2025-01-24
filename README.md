@@ -1,78 +1,37 @@
 <h1 align="center">Hi 👋, I'm Pedro Lucas!</h1>
 <h3 align="center">FullStack Developer in continuous learning</h3>
 <br>
+
+- 🔭 I’m currently, in my free time, working with [VOST Portugal](https://github.com/vostpt) 
+
+- 🌱 I’m currently learning **Python, ESP32 (Arduino) and more**
+
+- 💬 Ask me about **Anything... almost**
+
+- 📫 How to reach me **pedrolucas.core7i@gmail.com**
+
+- ⚡ Fun fact **I already booted up my C# DOS-like OS and it worked!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <div display="flex">
+        <p align="left"> <a href="https://twitter.com/pedrolucas7i" target="blank"><img src="https://img.shields.io/twitter/follow/pedrolucas7i?logo=twitter&style=for-the-badge" alt="pedrolucas7i" /></a> </p>
+    </div>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+SHOW_LINES_OF_CODE SHOW_TOTAL_CODE_TIME
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
+SHOW_LANGUAGE
 
-**🐱 My GitHub Data** 
+SHOW_PROJECTS
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 35 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
+SHOW_OS
 
-```text
-🌞 Morning                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-🌆 Daytime                107 commits         ██████████████░░░░░░░░░░░   54.31 % 
-🌃 Evening                53 commits          ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-```
-📅 **I'm Most Productive on Friday** 
+SHOW_TIMEZONE
 
-```text
-Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Wednesday                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Friday                   42 commits          █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Saturday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Sunday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Lisbon
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   10 repos            ██████████████░░░░░░░░░░░   55.56 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
-
-
- Last Updated on 24/01/2025 20:37:55 UTC
 <!--END_SECTION:waka-->
