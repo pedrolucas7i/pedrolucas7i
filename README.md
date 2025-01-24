@@ -24,14 +24,77 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-SHOW_LINES_OF_CODE SHOW_TOTAL_CODE_TIME
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-SHOW_LANGUAGE
+![Profile Views](http://img.shields.io/badge/Profile%20Views-77-blue)
 
-SHOW_PROJECTS
+**🐱 My GitHub Data** 
 
-SHOW_OS
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 39 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
-SHOW_TIMEZONE
+```text
+🌞 Morning                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+🌆 Daytime                107 commits         █████████████░░░░░░░░░░░░   53.50 % 
+🌃 Evening                56 commits          ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+```
+📅 **I'm Most Productive on Friday** 
 
+```text
+Monday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Wednesday                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Thursday                 28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   45 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Saturday                 41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Sunday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   10 repos            ██████████████░░░░░░░░░░░   55.56 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/01/2025 20:50:35 UTC
 <!--END_SECTION:waka-->
