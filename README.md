@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently, in my free time, working with [VOST Portugal](https://github.com/vostpt) 
 
-- 🌱 I’m currently learning **Python, ESP32 (Arduino) and more**
+- 🌱 I’m currently learning: **Python, ESP32 (Arduino) and more**
 
-- 💬 Ask me about **Anything... almost**
+- 💬 Ask me about: **Anything... almost**
 
-- 📫 How to reach me **pedrolucas.core7i@gmail.com**
+- 📫 How to reach me: **pedrolucas.core7i@gmail.com**
 
-- ⚡ Fun fact **I already booted up my C# DOS-like OS and it worked!**
+- ⚡ Fun fact: **I already booted up my C# DOS-like OS and it worked!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
