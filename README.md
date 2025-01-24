@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pedro Lucas!</h1>
 <h3 align="center">FullStack Developer in continuous learning</h3>
 <br>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 - 🔭 I’m currently, in my free time, working with [VOST Portugal](https://github.com/vostpt) 
 
@@ -24,3 +25,11 @@
 
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
+
+`SHOW_LANGUAGE`
+
+`SHOW_PROJECTS`
+
+`SHOW_OS` 
+
+`SHOW_TIMEZONE`
