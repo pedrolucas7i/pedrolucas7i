@@ -24,8 +24,7 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-
-SHOW_LINES_OF_CODESHOW_TOTAL_CODE_TIME
+SHOW_LINES_OF_CODE SHOW_TOTAL_CODE_TIME
 
 SHOW_LANGUAGE
 
