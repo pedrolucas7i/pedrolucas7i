@@ -2,7 +2,6 @@
 <h3 align="center">FullStack Developer in continuous learning</h3>
 <br>
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 - 🔭 I’m currently, in my free time, working with [VOST Portugal](https://github.com/vostpt) 
 
@@ -33,3 +32,5 @@
 `SHOW_OS` 
 
 `SHOW_TIMEZONE`
+
+<!--END_SECTION:waka-->
