@@ -24,15 +24,13 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-197-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-215-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2025
+> 🏆 40 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -67,16 +65,21 @@ Sunday                   26 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     32 mins             █████████░░░░░░░░░░░░░░░░   35.13 % 
+Markdown                 28 mins             ████████░░░░░░░░░░░░░░░░░   30.27 % 
+Python                   25 mins             ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DRVOST                   1 hr 4 mins         █████████████████░░░░░░░░   69.42 % 
+pedrolucas7i             28 mins             ████████░░░░░░░░░░░░░░░░░   30.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -96,5 +99,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2025 23:04:35 UTC
+ Last Updated on 25/01/2025 10:12:24 UTC
 <!--END_SECTION:waka-->
