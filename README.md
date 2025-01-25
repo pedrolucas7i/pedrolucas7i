@@ -24,15 +24,15 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-283-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-308-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 132.4 kB Used in GitHub's Storage 
+> 📦 132.5 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2025
+> 🏆 50 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -43,21 +43,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                69 commits          ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-🌆 Daytime                160 commits         █████████████░░░░░░░░░░░░   51.78 % 
-🌃 Evening                77 commits          ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+🌞 Morning                69 commits          █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+🌆 Daytime                160 commits         █████████████░░░░░░░░░░░░   50.96 % 
+🌃 Evening                82 commits          ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Tuesday                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Wednesday                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Thursday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Friday                   61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Saturday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Sunday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Tuesday                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Wednesday                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Thursday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Friday                   61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Saturday                 64 commits          █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Sunday                   34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
 
 
@@ -101,5 +101,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2025 17:09:44 UTC
+ Last Updated on 25/01/2025 19:52:27 UTC
 <!--END_SECTION:waka-->
