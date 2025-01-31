@@ -24,16 +24,85 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-SHOW_LOC_CHART=False
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2016%20mins-blue)
 
-SHOW_LINES_OF_CODE SHOW_TOTAL_CODE_TIME
+![Profile Views](http://img.shields.io/badge/Profile%20Views-317-blue)
 
-SHOW_LANGUAGE
+**🐱 My GitHub Data** 
 
-SHOW_PROJECTS
+> 📦 132.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 69 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
-SHOW_OS
+```text
+🌞 Morning                72 commits          █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+🌆 Daytime                162 commits         ████████████░░░░░░░░░░░░░   48.65 % 
+🌃 Evening                96 commits          ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+```
+📅 **I'm Most Productive on Saturday** 
 
-SHOW_TIMEZONE
+```text
+Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Tuesday                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Wednesday                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Thursday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Friday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Saturday                 68 commits          █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Sunday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+Python                   10 hrs 21 mins      ██████████████░░░░░░░░░░░   56.70 % 
+SQL                      3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+HTML                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Bash                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 16 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+CryptoCognos             6 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
+DRVOST                   3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+FichaFinal               3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+CryptoCognosV2           2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+landMusic                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+
+💻 Operating System: 
+Windows                  18 hrs 16 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   15 repos            ██████████████░░░░░░░░░░░   55.56 % 
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/01/2025 07:27:47 UTC
 <!--END_SECTION:waka-->
