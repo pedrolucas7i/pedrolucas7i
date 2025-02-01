@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Anything... almost**
 
-- 📫 How to reach me **pedrolucas.core7i@gmail.com**
+- 📫 How to reach me **pedrolucas.core7i@ gmail dotcom**
 
 - ⚡ Fun fact **I already booted up my C# DOS-like OS and it worked!**
 
@@ -97,12 +97,6 @@ C++                      2 repos             ██░░░░░░░░░�
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
  Last Updated on 01/02/2025 13:28:33 UTC
