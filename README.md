@@ -24,7 +24,7 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-344-blue)
 
@@ -67,21 +67,21 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Python                   14 hrs 58 mins      ███████████████░░░░░░░░░░   59.49 % 
-HTML                     3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Python                   15 hrs 43 mins      ████████████████░░░░░░░░░   62.39 % 
 Markdown                 3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-SQL                      3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+HTML                     2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+SQL                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+CSS                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
 VS Code                  25 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CryptoCognosV2           7 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+CryptoCognosV2           6 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
 DRVOST                   4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
 gyroGameController       3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-ParkingServer            3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-FichaFinal               3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+ParkingServer            3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+CONFIRMV3                3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 
 💻 Operating System: 
 Windows                  24 hrs 50 mins      █████████████████████████   98.62 % 
@@ -105,5 +105,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 13:32:49 UTC
+ Last Updated on 05/02/2025 13:32:58 UTC
 <!--END_SECTION:waka-->
