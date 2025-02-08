@@ -24,9 +24,9 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-344-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,24 +67,24 @@ Sunday                   44 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Python                   12 hrs 21 mins      █████████████████░░░░░░░░   67.10 % 
-Markdown                 2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-SQL                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-CSS                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Python                   12 hrs 21 mins      █████████████████░░░░░░░░   68.50 % 
+Markdown                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+SQL                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+CSS                      1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DRVOST                   4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-gyroGameController       3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-ParkingServer            3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-CONFIRMV3                3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-FichaFinal               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+DRVOST                   4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+gyroGameController       3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+ParkingServer            3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+CONFIRMV3                3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+FichaFinal               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 💻 Operating System: 
-Windows                  18 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -104,5 +104,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2025 13:32:41 UTC
+ Last Updated on 08/02/2025 13:29:18 UTC
 <!--END_SECTION:waka-->
