@@ -24,9 +24,9 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,21 +67,20 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Python                   1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   39.19 % 
-HTML                     1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-Markdown                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Python                   1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   39.15 % 
+HTML                     1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Markdown                 1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
 VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AIXY                     1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.74 % 
-TESTES                   1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   34.28 % 
-landMusic                1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-confirm_2025             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-gyroGameController       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+AIXY                     1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.79 % 
+TESTES                   1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   34.33 % 
+landMusic                1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+confirm_2025             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
 Windows                  4 hrs 55 mins       █████████████████████████   100.00 % 
@@ -104,5 +103,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2025 13:33:13 UTC
+ Last Updated on 13/02/2025 13:33:29 UTC
 <!--END_SECTION:waka-->
