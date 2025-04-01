@@ -2,9 +2,9 @@
 <h3 align="center">FullStack Developer in continuous learning</h3>
 <br>
 
-- 🔭 I’m currently, in my free time, working with [VOST Portugal](https://github.com/vostpt) 
+- 🔭 I previously worked at [VOST Portugal](https://github.com/vostpt) 
 
-- 🌱 I’m currently learning **Python, ESP32 (Arduino) and more**
+- 🌱 I’m currently learning **Python and more**
 
 - 💬 Ask me about **Anything... almost**
 
@@ -25,8 +25,6 @@
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,13 +90,6 @@ C++                      2 repos             ██░░░░░░░░░�
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
-
 
  Last Updated on 31/03/2025 13:40:05 UTC
 <!--END_SECTION:waka-->
