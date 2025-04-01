@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Lucas!</h1>
+<h1 align="center">Hi, I'm Pedro Lucas!</h1>
 <h3 align="center">FullStack Developer in continuous learning</h3>
 <br>
 
