@@ -17,7 +17,7 @@
     <div display="flex">
         <a href="https://bsky.app/profile/pedrolucas7i.bsky.social">
             <button>
-                <img width=60px src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg">
+                <img width=45 src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg">
             </button>
         </a>
     </div>
