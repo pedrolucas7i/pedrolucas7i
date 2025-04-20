@@ -15,7 +15,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <div display="flex">
-        <p align="left"> <a href="https://twitter.com/pedrolucas7i" target="blank"><img src="https://img.shields.io/twitter/follow/pedrolucas7i?logo=twitter&style=for-the-badge" alt="pedrolucas7i" /></a> </p>
+        <a href="https://bsky.app/profile/pedrolucas7i.bsky.social">
+            <button>
+                <img width=60px src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg">
+            </button>
+        </a>
     </div>
 </p>
 <h3 align="left">Languages and Tools:</h3>
