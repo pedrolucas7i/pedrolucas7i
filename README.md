@@ -71,18 +71,16 @@ Sunday                   217 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Python                   52 mins             █████████████████████████   99.41 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PEDRO                    32 mins             ███████████████░░░░░░░░░░   61.77 % 
-Unknown Project          20 mins             ██████████░░░░░░░░░░░░░░░   38.23 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -102,5 +100,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 13:45:10 UTC
+ Last Updated on 14/06/2025 13:38:49 UTC
 <!--END_SECTION:waka-->
