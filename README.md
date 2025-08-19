@@ -28,7 +28,7 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -71,21 +71,20 @@ Sunday                   217 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       ███████████████████░░░░░░   75.44 % 
-Bash                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python                   2 hrs 1 min         ██████████████████░░░░░░░   72.20 % 
+Bash                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Text                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aiObserver               2 hrs 47 mins       ██████████████████████░░░   88.37 % 
-aixy3.0-test             22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+aiObserver               2 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,5 +104,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2025 13:50:18 UTC
+ Last Updated on 19/08/2025 13:43:33 UTC
 <!--END_SECTION:waka-->
