@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Developer in continuous learning</h3>
 <br>
 
-- 🔭 I previously worked at [VOST Portugal](https://github.com/vostpt) and [Evox Technologies](https://www.evox.pt)
+- 🔭 I previously worked at [VOST Portugal](https://github.com/vostpt) and [Evox Technologies](https://evox.pt)
 
 - 🌱 I’m currently learning **Python and more**
 
