@@ -30,7 +30,7 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,16 +73,18 @@ Sunday                   218 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      5 mins              █████████████░░░░░░░░░░░░   51.53 % 
+Python                   4 mins              ███████████░░░░░░░░░░░░░░   44.61 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AIXY2.0 - Cópia          10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,5 +104,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2025 13:32:37 UTC
+ Last Updated on 22/09/2025 13:42:25 UTC
 <!--END_SECTION:waka-->
