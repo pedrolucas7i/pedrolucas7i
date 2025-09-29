@@ -30,6 +30,8 @@
 <p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -44,6 +46,45 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+🌆 Daytime                412 commits         █████████░░░░░░░░░░░░░░░░   34.56 % 
+🌃 Evening                540 commits         ███████████░░░░░░░░░░░░░░   45.30 % 
+🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Tuesday                  94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Wednesday                171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Thursday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Friday                   241 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Saturday                 214 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Sunday                   218 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -61,5 +102,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pedrolucas7i/pedrolucas7i/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 13:32:24 UTC
+ Last Updated on 29/09/2025 13:42:59 UTC
 <!--END_SECTION:waka-->
