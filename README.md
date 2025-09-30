@@ -1,33 +1,57 @@
-<h1 align="center">Hi, I'm Pedro Lucas!</h1>
-<h3 align="center">FullStack Developer in continuous learning</h3>
+<h1 align="center">Pedro Lucas | pedrolucas7i</h1>
+<h2 align="center">FullStack Developer • VOST Portugal • Evox Technologies</h2>
 <br>
 
-- 🔭 I previously worked at [VOST Portugal](https://github.com/vostpt) and [Evox Technologies](https://evox.pt)
-
-- 🌱 I’m currently learning **Python and more**
-
-- 💬 Ask me about **Anything... almost**
-
-- 📫 How to reach me **pedrolucas.core7i@ gmail dotcom**
-
-- ⚡ Fun fact **I already booted up my C# DOS-like OS and it worked!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <div display="flex">
-        <a href="https://bsky.app/profile/pedrolucas7i.bsky.social">
-            <button>
-                <img width=45 src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg">
-            </button>
-        </a>
-    </div>
+<p align="center">
+  <strong>Pedro Lucas</strong>, also known as <strong>pedrolucas7i</strong>, is a FullStack developer passionate about technology, innovation, and open source development in Portugal.<br>
+  Former member of <a href="https://github.com/vostpt">VOST Portugal (vostpt)</a> and <a href="https://evox.pt">Evox Technologies</a>.
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="40" height="40" />
 
+---
 
+### About me
 
-<p><img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" /></p><img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="pedrolucas7i" />
+- 🛡️ Previously worked at <strong>VOST Portugal</strong> (vostpt) and <strong>Evox Technologies</strong>
+- 🐍 Exploring Python and new technologies
+- 📫 Contact: pedrolucas.core7i@gmail.com
+- 🚀 Always looking for new challenges in software development and open source projects
+
+---
+
+### Keywords and Expertise
+
+Pedro Lucas | pedrolucas7i | vostpt | VOST Portugal | Evox Technologies | FullStack Developer | Python | Portugal | GitHub | Open Source
+
+---
+
+### Connect with me
+
+<p>
+  <a href="https://bsky.app/profile/pedrolucas7i.bsky.social">
+    <img width=45 src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky">
+  </a>
+</p>
+
+---
+
+### Languages & Tools
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+</a>
+<!-- Add other relevant icons here -->
+
+---
+
+### Stats
+
+<img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pedrolucas7i" />
+
+---
+
+> Pedro Lucas (pedrolucas7i) – FullStack developer in Portugal, with experience in innovative projects at VOST Portugal (vostpt) and Evox Technologies. Specialist in Python, technology, and open source solutions.
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs-blue)
@@ -45,7 +69,6 @@
 > 📜 45 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -59,7 +82,7 @@
 ```text
 Monday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 Tuesday                  94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Wednesday                171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Wednesday                171 commits         ���███░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Thursday                 137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 Friday                   241 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 Saturday                 214 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
@@ -90,7 +113,7 @@ No Activity Tracked This Week
 ```text
 Python                   33 repos            █████████████░░░░░░░░░░░░   53.23 % 
 HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-C++                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+C++                      6 repos             ██░░░░░░░░���░░░░░░░░░░░░░░   09.68 % 
 TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
