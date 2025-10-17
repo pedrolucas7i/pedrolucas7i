@@ -16,7 +16,7 @@
 <h2 align="center">FullStack Developer | Open Source Contributor | Tech Enthusiast</h2>
 <br>
 
-- Experienced <strong>FullStack Developer</strong> with a strong background in 
+- <strong>FullStack Developer</strong> with a strong background in 
 <strong>Python, Flask, Java, JSP, HTML, Linux, and Databases</strong>.  
 - Previously worked at <a href="https://github.com/vostpt" target="_blank"><strong>VOST Portugal (vostpt)</strong></a> 
 and <a href="https://evox.pt" target="_blank"><strong>Evox Technologies</strong></a>.  
