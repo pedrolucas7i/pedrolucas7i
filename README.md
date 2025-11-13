@@ -20,8 +20,7 @@
 <strong>Python, Flask, Java, JSP, HTML, Linux, and Databases</strong>.  
 - Previously worked at <a href="https://github.com/vostpt" target="_blank"><strong>VOST Portugal (vostpt)</strong></a> 
 and <a href="https://evox.pt" target="_blank"><strong>Evox Technologies</strong></a>.  
-- Passionate about building applications, contributing to open-source projects, 
-and continuous learning.
+- Driven by a passion for creating applications, turning ideas into reality, and embracing continuous learning.
 
 <hr>
 
