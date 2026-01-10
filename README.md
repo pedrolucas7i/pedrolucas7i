@@ -1,19 +1,19 @@
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Pedro Lucas (pedrolucas7i) - FullStack Developer | VOST Portugal | Evox Technologies">
-<meta property="og:description" content="Pedro Lucas (pedrolucas7i) is a FullStack Developer with experience in Python, Linux, Java, JSP , C#, and databases. Formerly at VOST Portugal (vostpt) and Evox Technologies.">
+<meta property="og:title" content="Pedro Lucas (pedrolucas7i)">
+<meta property="og:description" content="Pedro Lucas (pedrolucas7i) is a FullStack Developer with experience in Python, Linux, Java, JSP and databases.">
 <meta property="og:type" content="profile">
 <meta property="og:url" content="https://github.com/pedrolucas7i">
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/145859069?v=4">
 
 <!-- Twitter Card for Social SEO -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pedro Lucas (pedrolucas7i) - FullStack Developer">
-<meta name="twitter:description" content="FullStack Developer | Python | Linux | Open Source Contributor | VOST Portugal | Evox Technologies">
-<meta name="twitter:image" content="https://avatars.githubusercontent.com/u/000000?v=4">
+<meta name="twitter:title" content="Pedro Lucas (pedrolucas7i)">
+<meta name="twitter:description" content="FullStack Developer">
+<meta name="twitter:image" content="https://avatars.githubusercontent.com/u/145859069?v=4">
 
 <h1 align="center">Hi, I'm Pedro Lucas (pedrolucas7i) 👋</h1>
-<h2 align="center">FullStack Developer | Open Source Contributor | Tech Enthusiast</h2>
+<h2 align="center">FullStack Developer | Tech Enthusiast</h2>
 <br>
 
 - <strong>FullStack Developer</strong> with a strong background in 
@@ -29,7 +29,6 @@ and <a href="https://evox.pt" target="_blank"><strong>Evox Technologies</strong>
   <li>🔭 I previously worked at <a href="https://github.com/vostpt" target="_blank">VOST Portugal (vostpt)</a> and <a href="https://evox.pt" target="_blank">Evox Technologies</a></li>
   <li>🌱 I’m currently learning <strong>Python and advanced backend development</strong></li>
   <li>💬 Ask me about <strong>FullStack Development, Python, Linux, and Open Source</strong></li>
-  <li>📫 Reach me at: <strong>pedrolucas.core7i [at] gmail [dot] com</strong></li>
   <li>⚡ Fun fact: I booted up my own <strong>C# DOS-like OS</strong> and it worked!</li>
 </ul>
 
@@ -63,8 +62,3 @@ and <a href="https://evox.pt" target="_blank"><strong>Evox Technologies</strong>
 </p>
 
 <hr>
-
-<h3>📌 Keywords for SEO</h3>
-<p>
-  <strong>Pedro Lucas</strong> | <strong>pedrolucas7i</strong> | <strong>VOST Portugal</strong> | <strong>vostpt</strong> | <strong>Evox Technologies</strong> | <strong>FullStack Developer</strong> | <strong>Python Developer</strong> | <strong>Linux Enthusiast</strong>
-</p>
