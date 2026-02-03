@@ -29,7 +29,7 @@ and <a href="https://evox.pt" target="_blank"><strong>Evox Technologies</strong>
   <li>🔭 I previously worked at <a href="https://github.com/vostpt" target="_blank">VOST Portugal (vostpt)</a> and <a href="https://evox.pt" target="_blank">Evox Technologies</a></li>
   <li>🌱 I’m currently learning <strong>Python and advanced backend development</strong></li>
   <li>💬 Ask me about <strong>FullStack Development, Python, Linux, and Open Source</strong></li>
-  <li>⚡ Fun fact: I booted up my own <strong>C# DOS-like OS</strong> and it worked!</li>
+  <li>⚡ Fun fact: I've created a <strong>flightradar24</strong> but for <strong>trains</strong>. Check it out: <a href="https://trainradar.vercel.app/"><strong>TrainRadar</strong></a></li>
 </ul>
 
 <hr>
