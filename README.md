@@ -1,64 +1,90 @@
-
-<!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Pedro Lucas (pedrolucas7i)">
-<meta property="og:description" content="Pedro Lucas (pedrolucas7i) is a FullStack Developer with experience in Python, Linux, Java, JSP and databases.">
+<!-- ======================= -->
+<!-- 🔗 Social Preview (SEO) -->
+<!-- ======================= -->
+<meta property="og:title" content="Pedro Lucas | FullStack Developer">
+<meta property="og:description" content="FullStack Developer focused on Python, Backend Systems, and Open Source. Creator of TrainRadar.">
 <meta property="og:type" content="profile">
 <meta property="og:url" content="https://github.com/pedrolucas7i">
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/145859069?v=4">
 
-<!-- Twitter Card for Social SEO -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pedro Lucas (pedrolucas7i)">
-<meta name="twitter:description" content="FullStack Developer">
+<meta name="twitter:title" content="Pedro Lucas | FullStack Developer">
+<meta name="twitter:description" content="Backend-focused FullStack Developer | Python | Linux | Open Source">
 <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/145859069?v=4">
 
-<h1 align="center">Hi, I'm Pedro Lucas (pedrolucas7i) 👋</h1>
-<h2 align="center">FullStack Developer | Tech Enthusiast</h2>
-<br>
+<!-- ======================= -->
+<!-- 🎨 Banner -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Pedro%20Lucas&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=FullStack%20Developer%20%7C%20Backend%20Focused&descAlignY=60&descSize=18" />
+</p>
 
-- <strong>FullStack Developer</strong> with a strong background in 
-<strong>Python, Flask, Java, JSP, HTML, Linux, and Databases</strong>.  
-- Previously worked at <a href="https://github.com/vostpt" target="_blank"><strong>VOST Portugal (vostpt)</strong></a> 
-and <a href="https://evox.pt" target="_blank"><strong>Evox Technologies</strong></a>.  
-- Driven by a passion for creating applications, turning ideas into reality, and embracing continuous learning.
+<h2 align="center">👋 Hi, I'm Pedro</h2>
 
-<hr>
+<p align="center">
+  💻 Backend-Focused FullStack Developer <br>
+  🐍 Python • <</>/> HTML • 🐧 Linux • 🗄️ Databases
+</p>
 
-<h3>🚀 About Me</h3>
-<ul>
-  <li>🔭 I previously worked at <a href="https://github.com/vostpt" target="_blank">VOST Portugal (vostpt)</a> and <a href="https://evox.pt" target="_blank">Evox Technologies</a></li>
-  <li>🌱 I’m currently learning <strong>Python and advanced backend development</strong></li>
-  <li>💬 Ask me about <strong>FullStack Development, Python, Linux, and Open Source</strong></li>
-  <li>⚡ Fun fact: I've created a <strong>flightradar24</strong> but for <strong>trains</strong>. Check it out: <a href="https://trainradar.vercel.app/"><strong>TrainRadar</strong></a></li>
-</ul>
+---
 
-<hr>
+## 🚀 About Me
 
-<h3>🌐 Connect with Me</h3>
-<p align="left">
-  <a href="https://bsky.app/profile/pedrolucas7i.bsky.social" target="_blank">
-    <img width="45" alt="Pedro Lucas Bluesky Profile" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg">
+- 💼 Previously worked at **VOST Portugal** and **Evox Technologies**
+- 🧠 Focused on IoT, Dynamic Web Map Applications, Dashboards and Displaying Data
+- 🌱 Currently deepening knowledge in advanced Python & system design
+- 💬 Ask me about Python, Linux & FullStack architecture
+- 🚆 Built **TrainRadar** — a Flightradar24-style tracker for trains  
+  👉 https://trainradar.vercel.app/
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45">
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <figure style="margin:0;">
+        <embed src="https://wakatime.com/share/@pedrolucas7i/bca9d67d-6f96-4f86-86bc-1af8d643f37b.svg" width="100%"></embed>
+      </figure>
+    </td>
+    <td align="center">
+      <figure style="margin:0;">
+        <embed src="https://wakatime.com/share/@pedrolucas7i/3e9d3edd-f544-427d-98de-a712a4d46a60.svg" width="100%"></embed>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pedrolucas7i&theme=tokyonight&hide_border=true&card_width=1000&card_height=200" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://bsky.app/profile/pedrolucas7i.bsky.social">
+    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg">
   </a>
 </p>
 
-<hr>
+---
 
-<h3>🛠️ Languages & Tools</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino Logo" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Logo" width="40" height="40"/></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB Logo" width="40" height="40"/>
+<p align="center">
+  ⚡ Turning ideas into scalable reallity.
 </p>
-
-<hr>
-
-<h3>📊 GitHub Stats (Pedro Lucas / pedrolucas7i)</h3>
-<p>
-  <img align="left" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages of Pedro Lucas (pedrolucas7i)" />
-  <img height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats of Pedro Lucas (pedrolucas7i)" />
-</p>
-
-<hr>
