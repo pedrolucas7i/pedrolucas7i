@@ -9,7 +9,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Pedro Lucas | FullStack Developer">
-<meta name="twitter:description" content="Backend-focused FullStack Developer | Python | Linux | Open Source">
+<meta name="twitter:description" content="FullStack Developer | Python | Linux | Open Source">
 <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/145859069?v=4">
 
 <!-- ======================= -->
