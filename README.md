@@ -42,13 +42,17 @@
 ## 🛠 Tech Stack
 
 <p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,flask,html,css,javascript,debian,java,mysql,postgresql,github&theme=dark&perline=12" alt="My Skills" /></a>
+</p>
+
+<!--
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45">
-</p>
+-->
 
 ---
 
