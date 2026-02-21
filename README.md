@@ -16,7 +16,7 @@
 <!-- 🎨 Banner -->
 <!-- ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Pedro%20Lucas&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=FullStack%20Developer%20%7C%20Backend%20Focused&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Pedro%20Lucas&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=FullStack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
 
 <h2 align="center">👋 Hi, I'm Pedro</h2>
