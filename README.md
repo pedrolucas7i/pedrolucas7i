@@ -54,20 +54,11 @@
 
 ## 📊 GitHub Analytics
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <figure style="margin:0;">
-        <embed src="https://wakatime.com/share/@pedrolucas7i/bca9d67d-6f96-4f86-86bc-1af8d643f37b.svg" width="100%"></embed>
-      </figure>
-    </td>
-    <td align="center">
-      <figure style="margin:0;">
-        <embed src="https://wakatime.com/share/@pedrolucas7i/3e9d3edd-f544-427d-98de-a712a4d46a60.svg" width="100%"></embed>
-      </figure>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://wakatime.com/share/@pedrolucas7i/bca9d67d-6f96-4f86-86bc-1af8d643f37b.svg" width="49.5%"/>
+  <img src="https://wakatime.com/share/@pedrolucas7i/a2f342ef-5275-413c-b962-b36f45c359d0.svg" width="49.5%"/>
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pedrolucas7i&theme=tokyonight&hide_border=true&card_width=1000&card_height=200" />
