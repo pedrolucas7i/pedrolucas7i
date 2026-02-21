@@ -22,7 +22,7 @@
 <h2 align="center">👋 Hi, I'm Pedro</h2>
 
 <p align="center">
-  💻 Backend-Focused FullStack Developer <br>
+  💻 FullStack Developer <br>
   🐍 Python • <</>/> HTML • 🐧 Linux • 🗄️ Databases
 </p>
 
