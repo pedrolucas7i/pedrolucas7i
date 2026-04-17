@@ -33,7 +33,7 @@
 - 💼 Previously worked at **VOST Portugal** and **Evox Technologies**
 - 🧠 Focused on IoT, Dynamic Web Map Applications, Dashboards and Displaying Data
 - 🌱 Currently deepening knowledge in advanced Python & system design
-- 💬 Ask me about Python, Linux & FullStack architecture
+- 💬 Ask me about Python3, Linux & FullStack architecture
 - 🚆 Built **TrainRadar** — a Flightradar24-style tracker for trains  
   👉 https://trainradar.vercel.app/
 
@@ -41,7 +41,7 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p class="dock" align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,flask,html,css,javascript,debian,java,mysql,postgresql,github&theme=dark&perline=12" alt="My Skills" /></a>
 </p>
 
@@ -65,6 +65,7 @@
 
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&card_width=1000&card_height=200" alt="GitHub Stats of Pedro Lucas (pedrolucas7i)" />
   <img src="https://streak-stats.demolab.com?user=pedrolucas7i&theme=tokyonight&hide_border=true&card_width=1000&card_height=200" />
 </p>
 
@@ -81,5 +82,5 @@
 ---
 
 <p align="center">
-  ⚡ Turning ideas into scalable reallity.
+  ⚡ Turning ideas into reallity.
 </p>
