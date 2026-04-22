@@ -35,7 +35,7 @@
 - 🌱 Currently deepening knowledge in advanced Python & system design
 - 💬 Ask me about Python3, Linux & FullStack architecture
 - 🚆 Built **TrainRadar** — a Flightradar24-style tracker for trains  
-  👉 https://trainradar.vercel.app/
+  👉 https://trainradar.world/
 
 ---
 
