@@ -65,7 +65,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&card_width=1000&card_height=200" alt="GitHub Stats of Pedro Lucas (pedrolucas7i)" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=pedrolucas7i&show_icons=true&theme=tokyonight&locale=en&card_width=1000&card_height=200" alt="GitHub Stats of Pedro Lucas (pedrolucas7i)" />-->
   <img src="https://streak-stats.demolab.com?user=pedrolucas7i&theme=tokyonight&hide_border=true&card_width=1000&card_height=200" />
 </p>
 
