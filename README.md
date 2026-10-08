@@ -82,5 +82,7 @@
 ---
 
 <p align="center">
-  ⚡ Turning ideas into reallity.
+  ⚡ Turning ideas into reallity.<br>
+  <br>
+  <a href="https://wakatime.com/@5a94c834-f127-4401-adff-756350861b6d"><img src="https://wakatime.com/badge/user/5a94c834-f127-4401-adff-756350861b6d.svg" alt="Total time coded since Jan 24 2025" /></a>
 </p>
